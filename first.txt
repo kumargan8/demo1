@@ -1,3 +1,4 @@
 HI this is my first text file in git
 printf{ Hello world")
 printf ( Hi Suman)
+HI How are you
